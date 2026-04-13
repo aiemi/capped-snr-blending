@@ -1,0 +1,69 @@
+# Voxclar System Configuration
+# Reference parameters used in the paper evaluation.
+# See paper Section 3 for detailed discussion of each subsystem.
+
+# ---------------------------------------------------------------------------
+# Acoustic Echo Cancellation (AEC)
+# Frequency-domain adaptive filter operating on the system audio loopback.
+# ---------------------------------------------------------------------------
+aec:
+  block_size: 1600          # Samples per processing block (100 ms at 16 kHz)
+  filter_blocks: 8          # Number of filter partitions (800 ms tail)
+  fft_size: 3200            # FFT length (2 * block_size for overlap-save)
+  step_size: 0.3            # NLMS adaptation step size (mu)
+  enable: true
+
+# ---------------------------------------------------------------------------
+# Voice Activity Detection (VAD)
+# Silero VAD v4 is used to gate downstream ASR and reduce spurious segments.
+# ---------------------------------------------------------------------------
+vad:
+  model: "silero"
+  threshold: 0.5            # Speech probability threshold
+  min_speech_ms: 250        # Minimum speech duration to trigger segment
+  min_silence_ms: 300       # Silence duration to end a segment
+  window_size_ms: 64        # Analysis window (required by Silero)
+
+# ---------------------------------------------------------------------------
+# Adaptive Noise Reduction (NR)
+# Scene-aware suppression. RMS-based classifier selects suppression strength.
+# ---------------------------------------------------------------------------
+noise_reduction:
+  enable: true
+  scene_strengths:
+    quiet_room:       # RMS < -50 dBFS
+      suppression_db: 6
+    home_office:      # -50 <= RMS < -40 dBFS
+      suppression_db: 12
+    open_office:      # -40 <= RMS < -30 dBFS
+      suppression_db: 18
+    cafe:             # -30 <= RMS < -20 dBFS
+      suppression_db: 24
+    outdoor:          # RMS >= -20 dBFS
+      suppression_db: 30
+  rms_window_ms: 500        # Window for RMS estimation
+
+# ---------------------------------------------------------------------------
+# Automatic Speech Recognition (ASR)
+# Deepgram Nova-2 streaming endpoint with interim results.
+# ---------------------------------------------------------------------------
+asr:
+  model: "nova-2"
+  sample_rate: 16000        # Input sample rate in Hz
+  channels: 1
+  encoding: "linear16"
+  language: "en"
+  interim_results: true
+  endpointing_ms: 400       # Endpoint detection silence threshold
+
+# ---------------------------------------------------------------------------
+# Question Detection
+# Lightweight classifier triggered after each finalized ASR segment.
+# ---------------------------------------------------------------------------
+question_detection:
+  cooldown_seconds: 30      # Minimum interval between consecutive triggers
+  min_text_length: 20       # Ignore segments shorter than this (characters)
+  context_window_seconds: 8 # Lookback window for context assembly
+  model: "gpt-4o-mini"      # LLM used for classification and response
+  max_response_tokens: 256
+  temperature: 0.3

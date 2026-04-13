@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "text": "Sprint velocity looks good so far, we're on track for all committed items.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 2,
+    "text": "I should mention that we follow a two-week sprint cycle with daily standups.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 3,
+    "text": "What strategies do you use to ensure code quality in a fast-moving team?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 4,
+    "text": "Are there any known technical risks we should flag before we begin?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 5,
+    "text": "How would you handle a situation where your team disagrees on the technical direction?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 6,
+    "text": "We'll be using Jira for task tracking and Confluence for documentation.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 7,
+    "text": "Can you give an example of how you've mentored a junior engineer?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 8,
+    "text": "Do you need help with the database migration or can you handle it solo?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 9,
+    "text": "Is there an existing design system we should be building on, or are we starting from scratch?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 10,
+    "text": "Morgan, does your team have bandwidth to support the infrastructure setup in week one?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 11,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 12,
+    "text": "I'll be out tomorrow afternoon for a dentist appointment, just a heads up.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 13,
+    "text": "I merged the dependency update PR, no breaking changes detected.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 14,
+    "text": "We've been growing the team steadily and just shipped a major release last quarter.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 15,
+    "text": "Great, that's a really solid answer. I appreciate the detail there.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 16,
+    "text": "Let me pull up the next section of the interview. Bear with me for a second.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 17,
+    "text": "What's your approach to debugging a production incident you've never seen before?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 18,
+    "text": "How would you ensure data integrity across microservices with eventual consistency?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 19,
+    "text": "Do you need help with the database migration or can you handle it solo?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 20,
+    "text": "I pushed a hotfix for the timezone rendering bug that users reported.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 21,
+    "text": "Who owns the final sign-off on the user-facing designs?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 22,
+    "text": "What's the target latency for the real-time features we're building?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 23,
+    "text": "The design team has already completed the initial wireframes, which I'll share after this meeting.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 24,
+    "text": "Great, I think we're aligned on the high-level plan. Let's break into workstreams.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 25,
+    "text": "Does the new monitoring dashboard cover the payment service metrics?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 26,
+    "text": "Yesterday I finished the unit tests for the payment module and opened the PR.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 27,
+    "text": "When do you think the API endpoint changes will be ready for review?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 28,
+    "text": "Do we have capacity to take on the logging improvement this sprint?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 29,
+    "text": "Has legal reviewed the data handling requirements for this project?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 30,
+    "text": "Describe a time when you had to push back on a product requirement and why.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 31,
+    "text": "Let me pull up the next section of the interview. Bear with me for a second.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 32,
+    "text": "We'll be using Jira for task tracking and Confluence for documentation.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 33,
+    "text": "Before we wrap up, I want to mention that we'll have the next round scheduled by Friday.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 34,
+    "text": "I'll be out tomorrow afternoon for a dentist appointment, just a heads up.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 35,
+    "text": "What's the expected deliverable for the first phase, and when is it due?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 36,
+    "text": "What's the communication cadence going to look like, weekly syncs or async updates?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 37,
+    "text": "How would you handle receiving critical feedback from a peer during a code review?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 38,
+    "text": "How do you prioritize when you have multiple urgent tasks from different stakeholders?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 39,
+    "text": "Can you describe your experience with distributed systems at scale?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 40,
+    "text": "One more thing: our first demo to stakeholders is scheduled for the end of sprint two.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 41,
+    "text": "What's your approach to debugging a production incident you've never seen before?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 42,
+    "text": "Do you need help with the database migration or can you handle it solo?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 43,
+    "text": "Did anyone test the new caching layer with the staging dataset yet?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 44,
+    "text": "Great, that's a really solid answer. I appreciate the detail there.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 45,
+    "text": "The design team has already completed the initial wireframes, which I'll share after this meeting.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 46,
+    "text": "Who's picking up the accessibility audit task this sprint?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 47,
+    "text": "The project involves migrating our monolith to a microservices architecture.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 48,
+    "text": "Let me pull up the next section of the interview. Bear with me for a second.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 49,
+    "text": "Welcome everyone, thanks for making time for the project kickoff.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 50,
+    "text": "I should mention that we follow a two-week sprint cycle with daily standups.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 51,
+    "text": "I wrapped up the onboarding docs update and shared it in the team channel.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 52,
+    "text": "What does success look like for this project from the stakeholder perspective?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 53,
+    "text": "Tell me about a time when you had to deal with a difficult stakeholder on a project.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 54,
+    "text": "I should mention that we follow a two-week sprint cycle with daily standups.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 55,
+    "text": "Casey, does your team have bandwidth to support the infrastructure setup in week one?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 56,
+    "text": "Riley, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 57,
+    "text": "Let me explain the context for this problem before we get started.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 58,
+    "text": "We have about fifteen minutes left, so I want to make sure we cover the system design portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 59,
+    "text": "Quinn, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 60,
+    "text": "That's exactly the kind of experience we're looking for on this team.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 61,
+    "text": "What's your approach to debugging a production incident you've never seen before?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 62,
+    "text": "The load test results came in and throughput improved by eighteen percent.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 63,
+    "text": "Great, that's a really solid answer. I appreciate the detail there.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 64,
+    "text": "Can you walk us through the project timeline and key milestones?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 65,
+    "text": "What's the communication cadence going to look like, weekly syncs or async updates?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 66,
+    "text": "I pushed a hotfix for the timezone rendering bug that users reported.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 67,
+    "text": "One more thing: our first demo to stakeholders is scheduled for the end of sprint two.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 68,
+    "text": "Tell me about a project where you had to learn a completely new technology stack quickly.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 69,
+    "text": "Do we have capacity to take on the logging improvement this sprint?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 70,
+    "text": "Tell me about a time when you had to deal with a difficult stakeholder on a project.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 71,
+    "text": "How would you ensure data integrity across microservices with eventual consistency?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 72,
+    "text": "Who owns the final sign-off on the user-facing designs?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 73,
+    "text": "Quick note, the staging environment will be down for thirty minutes at noon for maintenance.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 74,
+    "text": "Can you confirm that the feature flag is wired up for the gradual rollout?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 75,
+    "text": "Perfect, I think we have a good sense of your background now.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 76,
+    "text": "Welcome everyone, thanks for making time for the project kickoff.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 77,
+    "text": "Can you walk us through the project timeline and key milestones?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 78,
+    "text": "How would you handle a situation where your team disagrees on the technical direction?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 79,
+    "text": "Can you describe your experience with distributed systems at scale?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 80,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 81,
+    "text": "Taylor, does your team have bandwidth to support the infrastructure setup in week one?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 82,
+    "text": "We've allocated a twelve-week timeline with a two-week buffer for integration testing.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 83,
+    "text": "We've been growing the team steadily and just shipped a major release last quarter.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 84,
+    "text": "When do you think the API endpoint changes will be ready for review?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 85,
+    "text": "Blake, is the memory leak you found in the worker process reproducible?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 86,
+    "text": "One more thing: our first demo to stakeholders is scheduled for the end of sprint two.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 87,
+    "text": "Who is the point of contact on the client side for requirement clarifications?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 88,
+    "text": "Jordan, does your team have bandwidth to support the infrastructure setup in week one?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 89,
+    "text": "How do you prioritize when you have multiple urgent tasks from different stakeholders?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 90,
+    "text": "How do you stay current with new developments in search relevance?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 91,
+    "text": "Tell me about a failure you experienced and what you learned from it.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 92,
+    "text": "Who's picking up the accessibility audit task this sprint?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 93,
+    "text": "What's the expected deliverable for the first phase, and when is it due?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 94,
+    "text": "Great, that's a really solid answer. I appreciate the detail there.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 95,
+    "text": "What's your approach to debugging a production incident you've never seen before?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 96,
+    "text": "How would you handle a situation where your team disagrees on the technical direction?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 97,
+    "text": "Should we plan for internationalization from day one or treat it as a later phase?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 98,
+    "text": "Should we plan for internationalization from day one or treat it as a later phase?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 99,
+    "text": "Quick note, the staging environment will be down for thirty minutes at noon for maintenance.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 100,
+    "text": "Let me explain the context for this problem before we get started.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 101,
+    "text": "How do you prioritize when you have multiple urgent tasks from different stakeholders?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 102,
+    "text": "Welcome everyone, thanks for making time for the project kickoff.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 103,
+    "text": "Describe a time when you had to push back on a product requirement and why.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 104,
+    "text": "Can you explain how you'd architect a system that needs five-nines availability?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 105,
+    "text": "That's exactly the kind of experience we're looking for on this team.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 106,
+    "text": "I'm going to continue working on the search indexing pipeline today.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 107,
+    "text": "Has legal reviewed the data handling requirements for this project?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 108,
+    "text": "Tell me about a failure you experienced and what you learned from it.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 109,
+    "text": "I'm going to continue working on the search indexing pipeline today.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 110,
+    "text": "We've allocated a twelve-week timeline with a two-week buffer for integration testing.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 111,
+    "text": "I merged the dependency update PR, no breaking changes detected.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 112,
+    "text": "Should we move the performance testing to next week given the current load?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 113,
+    "text": "We'll be using Jira for task tracking and Confluence for documentation.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 114,
+    "text": "Can you give an example of how you've mentored a junior engineer?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 115,
+    "text": "Who owns the final sign-off on the user-facing designs?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 116,
+    "text": "Can you describe your experience with distributed systems at scale?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 117,
+    "text": "Who owns the final sign-off on the user-facing designs?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 118,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 119,
+    "text": "Has the upstream dependency been updated to fix that serialization bug?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 120,
+    "text": "Perfect, I think we have a good sense of your background now.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 121,
+    "text": "We've allocated a twelve-week timeline with a two-week buffer for integration testing.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 122,
+    "text": "What does success look like for this project from the stakeholder perspective?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 123,
+    "text": "How do you prioritize when you have multiple urgent tasks from different stakeholders?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 124,
+    "text": "We have about fifteen minutes left, so I want to make sure we cover the system design portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 125,
+    "text": "One more thing: our first demo to stakeholders is scheduled for the end of sprint two.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 126,
+    "text": "I'm going to continue working on the search indexing pipeline today.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 127,
+    "text": "The primary objective is to reduce onboarding friction by at least forty percent.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 128,
+    "text": "Does the new monitoring dashboard cover the payment service metrics?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 129,
+    "text": "The team is distributed across three time zones, mostly US and Europe.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 130,
+    "text": "Do we have capacity to take on the logging improvement this sprint?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 131,
+    "text": "What strategies do you use to ensure code quality in a fast-moving team?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 132,
+    "text": "Can you explain how you'd architect a system that needs five-nines availability?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 133,
+    "text": "I'm going to continue working on the search indexing pipeline today.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 134,
+    "text": "What does success look like for this project from the stakeholder perspective?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 135,
+    "text": "Yesterday I finished the unit tests for the payment module and opened the PR.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 136,
+    "text": "We've been growing the team steadily and just shipped a major release last quarter.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 137,
+    "text": "I'll hand it over to Rowan now for the technical deep-dive portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 138,
+    "text": "What's your approach to debugging a production incident you've never seen before?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 139,
+    "text": "One more thing: our first demo to stakeholders is scheduled for the end of sprint two.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 140,
+    "text": "What's the expected deliverable for the first phase, and when is it due?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 141,
+    "text": "Has legal reviewed the data handling requirements for this project?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 142,
+    "text": "What strategies do you use to ensure code quality in a fast-moving team?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 143,
+    "text": "Could you explain the trade-offs between consistency and availability in your last project?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 144,
+    "text": "Quick note, the staging environment will be down for thirty minutes at noon for maintenance.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 145,
+    "text": "Morgan, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 146,
+    "text": "What's the communication cadence going to look like, weekly syncs or async updates?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 147,
+    "text": "The project sponsor is Cameron and the technical lead will be reporting to me directly.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 148,
+    "text": "Do we have budget approval for the third-party APIs we'll need to integrate?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 149,
+    "text": "Who is the point of contact on the client side for requirement clarifications?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 150,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 151,
+    "text": "Can you walk us through the project timeline and key milestones?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 152,
+    "text": "Describe a time when you had to push back on a product requirement and why.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 153,
+    "text": "The design team has already completed the initial wireframes, which I'll share after this meeting.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 154,
+    "text": "Are we still planning to release on Thursday or did the timeline shift?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 155,
+    "text": "What's your approach to debugging a production incident you've never seen before?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 156,
+    "text": "Today I'm focused on writing the migration script for the legacy user data.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 157,
+    "text": "The project involves migrating our monolith to a microservices architecture.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 158,
+    "text": "Can someone clarify which version of the schema we're targeting for this sprint?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 159,
+    "text": "What's the communication cadence going to look like, weekly syncs or async updates?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 160,
+    "text": "I'll hand it over to Alex now for the technical deep-dive portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 161,
+    "text": "I should mention that we follow a two-week sprint cycle with daily standups.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 162,
+    "text": "Let me explain the context for this problem before we get started.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 163,
+    "text": "Is there anything blocking you on the authentication refactor, Sam?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 164,
+    "text": "Drew, does your team have bandwidth to support the infrastructure setup in week one?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 165,
+    "text": "What's your approach to debugging a production incident you've never seen before?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 166,
+    "text": "We've been growing the team steadily and just shipped a major release last quarter.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 167,
+    "text": "Quick note, the staging environment will be down for thirty minutes at noon for maintenance.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 168,
+    "text": "I should mention that we follow a two-week sprint cycle with daily standups.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 169,
+    "text": "I paired with Quinn on the caching issue and we found the root cause.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 170,
+    "text": "Tell me about a failure you experienced and what you learned from it.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 171,
+    "text": "Great, that's a really solid answer. I appreciate the detail there.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 172,
+    "text": "Let's plan a follow-up next Tuesday to review the detailed technical breakdown.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 173,
+    "text": "Should we plan for internationalization from day one or treat it as a later phase?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 174,
+    "text": "Emerson, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 175,
+    "text": "I've been reviewing the RFC for the new event system and left some comments.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 176,
+    "text": "Could you walk us through your approach to performance profiling?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 177,
+    "text": "That's exactly the kind of experience we're looking for on this team.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 178,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 179,
+    "text": "I pushed a hotfix for the timezone rendering bug that users reported.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 180,
+    "text": "Sam, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 181,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 182,
+    "text": "I merged the dependency update PR, no breaking changes detected.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 183,
+    "text": "We have about fifteen minutes left, so I want to make sure we cover the system design portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 184,
+    "text": "Describe a time when you had to push back on a product requirement and why.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 185,
+    "text": "We've secured access to the sandbox environment and credentials are in the shared vault.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 186,
+    "text": "The design team has already completed the initial wireframes, which I'll share after this meeting.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 187,
+    "text": "Walk me through how you'd design a real-time notification system for millions of users.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 188,
+    "text": "One more thing: our first demo to stakeholders is scheduled for the end of sprint two.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 189,
+    "text": "The team is distributed across three time zones, mostly US and Europe.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 190,
+    "text": "One more thing: our first demo to stakeholders is scheduled for the end of sprint two.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 191,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 192,
+    "text": "Tell me about a time when you had to deal with a difficult stakeholder on a project.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 193,
+    "text": "Has legal reviewed the data handling requirements for this project?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 194,
+    "text": "One more thing: our first demo to stakeholders is scheduled for the end of sprint two.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 195,
+    "text": "The project sponsor is Morgan and the technical lead will be reporting to me directly.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 196,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 197,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 198,
+    "text": "How would you handle receiving critical feedback from a peer during a code review?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 199,
+    "text": "Dakota, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 200,
+    "text": "What's the target latency for the real-time features we're building?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 201,
+    "text": "How would you handle receiving critical feedback from a peer during a code review?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 202,
+    "text": "So the role is primarily focused on backend infrastructure and we use Go and Python.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 203,
+    "text": "I'll hand it over to Drew now for the technical deep-dive portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 204,
+    "text": "Great, I think we're aligned on the high-level plan. Let's break into workstreams.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 205,
+    "text": "How would you handle a situation where your team disagrees on the technical direction?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 206,
+    "text": "I'll hand it over to Hayden now for the technical deep-dive portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 207,
+    "text": "What motivates you to work on security problems?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 208,
+    "text": "Can you give an example of how you've mentored a junior engineer?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 209,
+    "text": "Can you clarify the scope boundary between the MVP and the full release?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 210,
+    "text": "The load test results came in and throughput improved by eighteen percent.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 211,
+    "text": "The CI pipeline is green now after I fixed the flaky integration test.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 212,
+    "text": "The team is distributed across three time zones, mostly US and Europe.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 213,
+    "text": "Are we aligned on the rollback strategy if the deploy goes sideways?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 214,
+    "text": "Peyton, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 215,
+    "text": "Should we plan for internationalization from day one or treat it as a later phase?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 216,
+    "text": "Can you confirm that the feature flag is wired up for the gradual rollout?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 217,
+    "text": "What strategies do you use to ensure code quality in a fast-moving team?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 218,
+    "text": "Sprint velocity looks good so far, we're on track for all committed items.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 219,
+    "text": "Great, I think we're aligned on the high-level plan. Let's break into workstreams.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 220,
+    "text": "The primary objective is to reduce onboarding friction by at least forty percent.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 221,
+    "text": "The team is distributed across three time zones, mostly US and Europe.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 222,
+    "text": "Welcome everyone, thanks for making time for the project kickoff.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 223,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 224,
+    "text": "How do you prioritize when you have multiple urgent tasks from different stakeholders?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 225,
+    "text": "No blockers on my end. I should have the feature branch ready by end of day.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 226,
+    "text": "We have about fifteen minutes left, so I want to make sure we cover the system design portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 227,
+    "text": "Today I'm focused on writing the migration script for the legacy user data.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 228,
+    "text": "How do you stay current with new developments in API design?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 229,
+    "text": "Is there an existing design system we should be building on, or are we starting from scratch?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 230,
+    "text": "Let me explain the context for this problem before we get started.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 231,
+    "text": "Walk me through how you'd design a real-time notification system for millions of users.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 232,
+    "text": "The load test results came in and throughput improved by eighteen percent.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 233,
+    "text": "Could you explain the trade-offs between consistency and availability in your last project?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 234,
+    "text": "Great, I think we're aligned on the high-level plan. Let's break into workstreams.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 235,
+    "text": "What strategies do you use to ensure code quality in a fast-moving team?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 236,
+    "text": "We've been growing the team steadily and just shipped a major release last quarter.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 237,
+    "text": "We've allocated a twelve-week timeline with a two-week buffer for integration testing.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 238,
+    "text": "Does the new monitoring dashboard cover the payment service metrics?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 239,
+    "text": "The CI pipeline is green now after I fixed the flaky integration test.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 240,
+    "text": "Can you explain how you'd architect a system that needs five-nines availability?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 241,
+    "text": "Let me explain the context for this problem before we get started.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 242,
+    "text": "Tell me about a failure you experienced and what you learned from it.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 243,
+    "text": "What does success look like for this project from the stakeholder perspective?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 244,
+    "text": "Has the upstream dependency been updated to fix that serialization bug?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 245,
+    "text": "Great, that's a really solid answer. I appreciate the detail there.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 246,
+    "text": "Let me explain the context for this problem before we get started.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 247,
+    "text": "Tell me about a failure you experienced and what you learned from it.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 248,
+    "text": "Yesterday I finished the unit tests for the payment module and opened the PR.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 249,
+    "text": "Could you explain the trade-offs between consistency and availability in your last project?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 250,
+    "text": "Do you need help with the database migration or can you handle it solo?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 251,
+    "text": "Could you explain the trade-offs between consistency and availability in your last project?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 252,
+    "text": "The competitive landscape has shifted, which is why leadership approved this initiative.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 253,
+    "text": "Yesterday I finished the unit tests for the payment module and opened the PR.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 254,
+    "text": "I've been reviewing the RFC for the new event system and left some comments.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 255,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 256,
+    "text": "The design team has already completed the initial wireframes, which I'll share after this meeting.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 257,
+    "text": "Has the upstream dependency been updated to fix that serialization bug?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 258,
+    "text": "No blockers on my end. I should have the feature branch ready by end of day.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 259,
+    "text": "Should we plan for internationalization from day one or treat it as a later phase?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 260,
+    "text": "Can you confirm that the feature flag is wired up for the gradual rollout?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 261,
+    "text": "Great, that's a really solid answer. I appreciate the detail there.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 262,
+    "text": "I want to emphasize that quality is non-negotiable, we'd rather push the date than ship bugs.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 263,
+    "text": "Great, I think we're aligned on the high-level plan. Let's break into workstreams.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 264,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 265,
+    "text": "What's the expected deliverable for the first phase, and when is it due?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 266,
+    "text": "What strategies do you use to ensure code quality in a fast-moving team?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 267,
+    "text": "Reese, is the memory leak you found in the worker process reproducible?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 268,
+    "text": "Tell me about a failure you experienced and what you learned from it.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 269,
+    "text": "Do you need help with the database migration or can you handle it solo?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 270,
+    "text": "How do you stay current with new developments in observability?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 271,
+    "text": "Are we still planning to release on Thursday or did the timeline shift?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 272,
+    "text": "Does the new monitoring dashboard cover the payment service metrics?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 273,
+    "text": "What's your approach to debugging a production incident you've never seen before?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 274,
+    "text": "Does the new monitoring dashboard cover the payment service metrics?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 275,
+    "text": "The project sponsor is Emerson and the technical lead will be reporting to me directly.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 276,
+    "text": "Are we still planning to release on Thursday or did the timeline shift?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 277,
+    "text": "How would you handle receiving critical feedback from a peer during a code review?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 278,
+    "text": "Is there an existing design system we should be building on, or are we starting from scratch?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 279,
+    "text": "So the role is primarily focused on backend infrastructure and we use Go and Python.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 280,
+    "text": "The load test results came in and throughput improved by eighteen percent.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 281,
+    "text": "We'll be using Jira for task tracking and Confluence for documentation.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 282,
+    "text": "Quick note, the staging environment will be down for thirty minutes at noon for maintenance.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 283,
+    "text": "One more thing: our first demo to stakeholders is scheduled for the end of sprint two.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 284,
+    "text": "We'll be using Jira for task tracking and Confluence for documentation.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 285,
+    "text": "Has legal reviewed the data handling requirements for this project?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 286,
+    "text": "Do you need help with the database migration or can you handle it solo?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 287,
+    "text": "Do we have budget approval for the third-party APIs we'll need to integrate?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 288,
+    "text": "I pushed a hotfix for the timezone rendering bug that users reported.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 289,
+    "text": "Let's plan a follow-up next Tuesday to review the detailed technical breakdown.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 290,
+    "text": "Are we aligned on the rollback strategy if the deploy goes sideways?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 291,
+    "text": "I paired with Jordan on the caching issue and we found the root cause.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 292,
+    "text": "That's exactly the kind of experience we're looking for on this team.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 293,
+    "text": "Great, that's a really solid answer. I appreciate the detail there.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 294,
+    "text": "Tell me about a failure you experienced and what you learned from it.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 295,
+    "text": "Is there anything blocking you on the authentication refactor, Jamie?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 296,
+    "text": "What's the expected deliverable for the first phase, and when is it due?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 297,
+    "text": "Casey, does your team have bandwidth to support the infrastructure setup in week one?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 298,
+    "text": "What's your experience with CI/CD pipelines and how did you improve deployment frequency?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 299,
+    "text": "I should mention that we follow a two-week sprint cycle with daily standups.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 300,
+    "text": "The competitive landscape has shifted, which is why leadership approved this initiative.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 301,
+    "text": "So the role is primarily focused on backend infrastructure and we use Go and Python.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 302,
+    "text": "Could you explain the trade-offs between consistency and availability in your last project?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 303,
+    "text": "Quick note, the staging environment will be down for thirty minutes at noon for maintenance.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 304,
+    "text": "What's the expected deliverable for the first phase, and when is it due?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 305,
+    "text": "Yesterday I finished the unit tests for the payment module and opened the PR.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 306,
+    "text": "We've allocated a twelve-week timeline with a two-week buffer for integration testing.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 307,
+    "text": "Did anyone test the new caching layer with the staging dataset yet?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 308,
+    "text": "The primary objective is to reduce onboarding friction by at least forty percent.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 309,
+    "text": "Can you give an example of how you've mentored a junior engineer?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 310,
+    "text": "What's the target latency for the real-time features we're building?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 311,
+    "text": "Can you describe your experience with distributed systems at scale?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 312,
+    "text": "Who is the point of contact on the client side for requirement clarifications?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 313,
+    "text": "Perfect, I think we have a good sense of your background now.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 314,
+    "text": "Tell me about a failure you experienced and what you learned from it.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 315,
+    "text": "What motivates you to work on developer tooling problems?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 316,
+    "text": "Can you describe your experience with distributed systems at scale?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 317,
+    "text": "I'll sync with the data team about the ETL pipeline changes after standup.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 318,
+    "text": "Thanks for joining us today, Morgan. Let me start by giving you an overview of the team.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 319,
+    "text": "What's the expected deliverable for the first phase, and when is it due?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 320,
+    "text": "The team is distributed across three time zones, mostly US and Europe.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 321,
+    "text": "Are there any known technical risks we should flag before we begin?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 322,
+    "text": "Are there any known technical risks we should flag before we begin?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 323,
+    "text": "Can you explain how you'd architect a system that needs five-nines availability?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 324,
+    "text": "Are we aligned on the rollback strategy if the deploy goes sideways?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 325,
+    "text": "Thanks for joining us today, Quinn. Let me start by giving you an overview of the team.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 326,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 327,
+    "text": "Quick note, the staging environment will be down for thirty minutes at noon for maintenance.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 328,
+    "text": "Has the upstream dependency been updated to fix that serialization bug?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 329,
+    "text": "The project sponsor is Avery and the technical lead will be reporting to me directly.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 330,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 331,
+    "text": "I'll sync with the data team about the ETL pipeline changes after standup.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 332,
+    "text": "So the role is primarily focused on backend infrastructure and we use Go and Python.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 333,
+    "text": "We've been growing the team steadily and just shipped a major release last quarter.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 334,
+    "text": "Does the new monitoring dashboard cover the payment service metrics?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 335,
+    "text": "I want to emphasize that quality is non-negotiable, we'd rather push the date than ship bugs.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 336,
+    "text": "How do you prioritize when you have multiple urgent tasks from different stakeholders?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 337,
+    "text": "Should we move the performance testing to next week given the current load?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 338,
+    "text": "Who owns the final sign-off on the user-facing designs?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 339,
+    "text": "Is there anything blocking you on the authentication refactor, Cameron?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 340,
+    "text": "Sam, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 341,
+    "text": "No blockers on my end. I should have the feature branch ready by end of day.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 342,
+    "text": "Is there an existing design system we should be building on, or are we starting from scratch?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 343,
+    "text": "The team is distributed across three time zones, mostly US and Europe.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 344,
+    "text": "I'll be out tomorrow afternoon for a dentist appointment, just a heads up.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 345,
+    "text": "Today I'm focused on writing the migration script for the legacy user data.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 346,
+    "text": "Casey, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 347,
+    "text": "The project sponsor is Jordan and the technical lead will be reporting to me directly.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 348,
+    "text": "Can you walk us through the project timeline and key milestones?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 349,
+    "text": "What motivates you to work on observability problems?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 350,
+    "text": "What does success look like for this project from the stakeholder perspective?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 351,
+    "text": "What motivates you to work on API design problems?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 352,
+    "text": "Before we wrap up, I want to mention that we'll have the next round scheduled by Friday.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 353,
+    "text": "I wrapped up the onboarding docs update and shared it in the team channel.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 354,
+    "text": "How do you prioritize when you have multiple urgent tasks from different stakeholders?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 355,
+    "text": "Did anyone test the new caching layer with the staging dataset yet?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 356,
+    "text": "Is there anything blocking you on the authentication refactor, Emerson?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 357,
+    "text": "How do you prioritize when you have multiple urgent tasks from different stakeholders?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 358,
+    "text": "Before we wrap up, I want to mention that we'll have the next round scheduled by Friday.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 359,
+    "text": "Do we have capacity to take on the logging improvement this sprint?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 360,
+    "text": "Tell me about a failure you experienced and what you learned from it.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 361,
+    "text": "How do you prioritize when you have multiple urgent tasks from different stakeholders?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 362,
+    "text": "Has legal reviewed the data handling requirements for this project?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 363,
+    "text": "Can you clarify the scope boundary between the MVP and the full release?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 364,
+    "text": "Should we plan for internationalization from day one or treat it as a later phase?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 365,
+    "text": "Before we wrap up, I want to mention that we'll have the next round scheduled by Friday.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 366,
+    "text": "We've allocated a twelve-week timeline with a two-week buffer for integration testing.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 367,
+    "text": "When do you think the API endpoint changes will be ready for review?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 368,
+    "text": "Let me pull up the next section of the interview. Bear with me for a second.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 369,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 370,
+    "text": "What's the expected deliverable for the first phase, and when is it due?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 371,
+    "text": "Describe a time when you had to push back on a product requirement and why.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 372,
+    "text": "The load test results came in and throughput improved by eighteen percent.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 373,
+    "text": "I've been reviewing the RFC for the new event system and left some comments.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 374,
+    "text": "Alex, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 375,
+    "text": "Are we still planning to release on Thursday or did the timeline shift?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 376,
+    "text": "How would you ensure data integrity across microservices with eventual consistency?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 377,
+    "text": "I merged the dependency update PR, no breaking changes detected.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 378,
+    "text": "Is there anything blocking you on the authentication refactor, Morgan?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 379,
+    "text": "The project involves migrating our monolith to a microservices architecture.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 380,
+    "text": "Tell me about a failure you experienced and what you learned from it.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 381,
+    "text": "Tell me about a time when you had to deal with a difficult stakeholder on a project.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 382,
+    "text": "Can you give an example of how you've mentored a junior engineer?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 383,
+    "text": "Let me pull up the next section of the interview. Bear with me for a second.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 384,
+    "text": "So the role is primarily focused on backend infrastructure and we use Go and Python.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 385,
+    "text": "The primary objective is to reduce onboarding friction by at least forty percent.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 386,
+    "text": "No blockers on my end. I should have the feature branch ready by end of day.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 387,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 388,
+    "text": "Morgan, does your team have bandwidth to support the infrastructure setup in week one?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 389,
+    "text": "What's the time complexity of the algorithm you used for the matching engine?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 390,
+    "text": "Perfect, I think we have a good sense of your background now.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 391,
+    "text": "Sprint velocity looks good so far, we're on track for all committed items.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 392,
+    "text": "I paired with Jamie on the caching issue and we found the root cause.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 393,
+    "text": "Welcome everyone, thanks for making time for the project kickoff.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 394,
+    "text": "Who's picking up the accessibility audit task this sprint?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 395,
+    "text": "Let me explain the context for this problem before we get started.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 396,
+    "text": "How would you handle a situation where your team disagrees on the technical direction?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 397,
+    "text": "I merged the dependency update PR, no breaking changes detected.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 398,
+    "text": "Could you explain the trade-offs between consistency and availability in your last project?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 399,
+    "text": "Rowan, does your team have bandwidth to support the infrastructure setup in week one?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 400,
+    "text": "Are we aligned on the rollback strategy if the deploy goes sideways?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 401,
+    "text": "We've secured access to the sandbox environment and credentials are in the shared vault.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 402,
+    "text": "Before we wrap up, I want to mention that we'll have the next round scheduled by Friday.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 403,
+    "text": "I've been reviewing the RFC for the new event system and left some comments.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 404,
+    "text": "Jordan, does your team have bandwidth to support the infrastructure setup in week one?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 405,
+    "text": "Do we have capacity to take on the logging improvement this sprint?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 406,
+    "text": "Are we still planning to release on Thursday or did the timeline shift?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 407,
+    "text": "Let me explain the context for this problem before we get started.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 408,
+    "text": "Quick note, the staging environment will be down for thirty minutes at noon for maintenance.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 409,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 410,
+    "text": "No blockers on my end. I should have the feature branch ready by end of day.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 411,
+    "text": "We've allocated a twelve-week timeline with a two-week buffer for integration testing.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 412,
+    "text": "We've secured access to the sandbox environment and credentials are in the shared vault.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 413,
+    "text": "Thanks for joining us today, Morgan. Let me start by giving you an overview of the team.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 414,
+    "text": "So the role is primarily focused on backend infrastructure and we use Go and Python.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 415,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 416,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 417,
+    "text": "Yesterday I finished the unit tests for the payment module and opened the PR.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 418,
+    "text": "Do you need help with the database migration or can you handle it solo?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 419,
+    "text": "Great, that's a really solid answer. I appreciate the detail there.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 420,
+    "text": "I wrapped up the onboarding docs update and shared it in the team channel.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 421,
+    "text": "I merged the dependency update PR, no breaking changes detected.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 422,
+    "text": "How do you stay current with new developments in data engineering?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 423,
+    "text": "What does success look like for this project from the stakeholder perspective?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 424,
+    "text": "I've been reviewing the RFC for the new event system and left some comments.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 425,
+    "text": "The project involves migrating our monolith to a microservices architecture.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 426,
+    "text": "We've secured access to the sandbox environment and credentials are in the shared vault.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 427,
+    "text": "Jordan, is the memory leak you found in the worker process reproducible?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 428,
+    "text": "How would you handle receiving critical feedback from a peer during a code review?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 429,
+    "text": "How do you prioritize when you have multiple urgent tasks from different stakeholders?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 430,
+    "text": "I'll sync with the data team about the ETL pipeline changes after standup.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 431,
+    "text": "Great, that's a really solid answer. I appreciate the detail there.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 432,
+    "text": "Do we have budget approval for the third-party APIs we'll need to integrate?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 433,
+    "text": "Avery, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 434,
+    "text": "I'll hand it over to Drew now for the technical deep-dive portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 435,
+    "text": "Is there anything blocking you on the authentication refactor, Dakota?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 436,
+    "text": "I paired with Cameron on the caching issue and we found the root cause.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 437,
+    "text": "Let me share my screen so we can look at the coding problem together.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 438,
+    "text": "Does the new monitoring dashboard cover the payment service metrics?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 439,
+    "text": "We've been growing the team steadily and just shipped a major release last quarter.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 440,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 441,
+    "text": "How would you ensure data integrity across microservices with eventual consistency?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 442,
+    "text": "The project sponsor is Reese and the technical lead will be reporting to me directly.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 443,
+    "text": "I'll sync with the data team about the ETL pipeline changes after standup.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 444,
+    "text": "Great, I think we're aligned on the high-level plan. Let's break into workstreams.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 445,
+    "text": "I'm going to continue working on the search indexing pipeline today.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 446,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 447,
+    "text": "The CI pipeline is green now after I fixed the flaky integration test.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 448,
+    "text": "I'll send out the meeting notes and action items by end of day.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 449,
+    "text": "Who's picking up the accessibility audit task this sprint?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 450,
+    "text": "We have about fifteen minutes left, so I want to make sure we cover the system design portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 451,
+    "text": "That's exactly the kind of experience we're looking for on this team.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 452,
+    "text": "I pushed a hotfix for the timezone rendering bug that users reported.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 453,
+    "text": "Are we expected to maintain backward compatibility with the existing v2 API?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 454,
+    "text": "What does success look like for this project from the stakeholder perspective?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 455,
+    "text": "Has legal reviewed the data handling requirements for this project?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 456,
+    "text": "Are we expected to maintain backward compatibility with the existing v2 API?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 457,
+    "text": "I paired with Jamie on the caching issue and we found the root cause.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 458,
+    "text": "Are we expected to maintain backward compatibility with the existing v2 API?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 459,
+    "text": "Has the upstream dependency been updated to fix that serialization bug?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 460,
+    "text": "How would you handle a situation where your team disagrees on the technical direction?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 461,
+    "text": "The competitive landscape has shifted, which is why leadership approved this initiative.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 462,
+    "text": "What does success look like for this project from the stakeholder perspective?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 463,
+    "text": "What's your experience with CI/CD pipelines and how did you improve deployment frequency?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 464,
+    "text": "We've been growing the team steadily and just shipped a major release last quarter.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 465,
+    "text": "What's your experience with CI/CD pipelines and how did you improve deployment frequency?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 466,
+    "text": "Today I'm focused on writing the migration script for the legacy user data.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 467,
+    "text": "The project sponsor is Casey and the technical lead will be reporting to me directly.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 468,
+    "text": "The project involves migrating our monolith to a microservices architecture.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 469,
+    "text": "From a technical standpoint, we're building on the existing platform with a new frontend layer.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 470,
+    "text": "Has the upstream dependency been updated to fix that serialization bug?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 471,
+    "text": "I'll sync with the data team about the ETL pipeline changes after standup.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 472,
+    "text": "Emerson, are you still waiting on the design spec from the product team?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "status",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 473,
+    "text": "Thanks for joining us today, Rowan. Let me start by giving you an overview of the team.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 474,
+    "text": "Hayden, does your team have bandwidth to support the infrastructure setup in week one?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "planning",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 475,
+    "text": "What's the target latency for the real-time features we're building?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 476,
+    "text": "I'll hand it over to Sam now for the technical deep-dive portion.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 477,
+    "text": "Peyton, is the memory leak you found in the worker process reproducible?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 478,
+    "text": "Yesterday I finished the unit tests for the payment module and opened the PR.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 479,
+    "text": "What's the time complexity of the algorithm you used for the matching engine?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 480,
+    "text": "What strategies do you use to ensure code quality in a fast-moving team?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 481,
+    "text": "So the role is primarily focused on backend infrastructure and we use Go and Python.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 482,
+    "text": "I paired with Drew on the caching issue and we found the root cause.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 483,
+    "text": "Walk me through how you'd design a real-time notification system for millions of users.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 484,
+    "text": "Before we wrap up, I want to mention that we'll have the next round scheduled by Friday.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 485,
+    "text": "Let me share the slide deck that outlines our goals for the quarter.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 486,
+    "text": "Describe a time when you had to push back on a product requirement and why.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 487,
+    "text": "Could you explain the trade-offs between consistency and availability in your last project?",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "technical",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 488,
+    "text": "From a technical standpoint, we're building on the existing platform with a new frontend layer.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 489,
+    "text": "Thanks for joining us today, Avery. Let me start by giving you an overview of the team.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 490,
+    "text": "Does the new monitoring dashboard cover the payment service metrics?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 491,
+    "text": "We'll be using Jira for task tracking and Confluence for documentation.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 492,
+    "text": "The CI pipeline is green now after I fixed the flaky integration test.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 493,
+    "text": "Does the new monitoring dashboard cover the payment service metrics?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 494,
+    "text": "Can you confirm that the feature flag is wired up for the gradual rollout?",
+    "scenario": "standup",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 495,
+    "text": "I paired with Dakota on the caching issue and we found the root cause.",
+    "scenario": "standup",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 496,
+    "text": "We've been growing the team steadily and just shipped a major release last quarter.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 497,
+    "text": "We've been growing the team steadily and just shipped a major release last quarter.",
+    "scenario": "interview",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 498,
+    "text": "Who is the point of contact on the client side for requirement clarifications?",
+    "scenario": "kickoff",
+    "has_question": true,
+    "question_type": "clarification",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 499,
+    "text": "We've allocated a twelve-week timeline with a two-week buffer for integration testing.",
+    "scenario": "kickoff",
+    "has_question": false,
+    "question_type": "none",
+    "source": "synthetic_v1"
+  },
+  {
+    "id": 500,
+    "text": "Describe a time when you had to push back on a product requirement and why.",
+    "scenario": "interview",
+    "has_question": true,
+    "question_type": "behavioral",
+    "source": "synthetic_v1"
+  }
+]
