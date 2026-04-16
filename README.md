@@ -1,8 +1,8 @@
-# Capped SNR-Adaptive Blending for Neural Speech Enhancement
+# When Does Neural Speech Enhancement Help Meeting Transcription?
 
 Evaluation code, algorithm implementation, and experimental results for:
 
-> **"Capped SNR-Adaptive Blending for Neural Speech Enhancement in Meeting Transcription"**
+> **"When Does Neural Speech Enhancement Help Meeting Transcription? An Empirical Study"**
 > Anwei Liu, University of Pennsylvania (Alumnus)
 > *Submitted to Applied Sciences (MDPI), 2026*
 
