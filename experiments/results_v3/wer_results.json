@@ -1,0 +1,2562 @@
+[
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.6424242424242425,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, yeah, yeah. Everything? Yeah, that's what we're doing."
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.34545454545454546,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, we're gonna meet up. Yeah, yeah, yeah. I'll be off today. You use my pen? Yeah, everything? Ye"
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.6424242424242425,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, yeah, yeah. Everything? Yeah, that's what we're doing."
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.38181818181818183,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, we're gonna meet up. Yeah, yeah, yeah. Mm, mother of a today. You're using my pen, right? Yeah"
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.22424242424242424,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, we're gonna meet up. I mean, we're not even there. Yeah, yeah, yeah. What the hell's today? Yo"
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.2606060606060606,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, we're gonna meet up. I mean, we're not even married yet. Yeah, yeah. Mm, what the hell's the n"
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.10909090909090909,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. Mm, Monday afternoon. You u"
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.2666666666666666,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "I'm going to go ahead and get the ball. I'm going to go ahead and get the ball. I'm going to go ahea"
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.26666666666666666,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, we're gonna meet up. I mean, we're not even that. Yeah. Yeah. Yeah. What they often need. You "
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.19393939393939394,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, we're gonna meet up. I mean, we're not even mad yet. Yeah, yeah. Mm, what day afternoon? You u"
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g"
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.15151515151515152,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, we're gonna meet up. I mean, we're not even there. Yeah. Yeah. Yeah. Mmm. One day afternoon. Y"
+  },
+  {
+    "clip": "ami_long_000.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.2,
+    "ref": "Yeah, we're gonna meet up. I mean, we're not even there yet. Yeah, yeah. One day afternoon. You're g",
+    "hyp": "Yeah, we're gonna meet up. I mean we're not even there. Yeah. Yeah. Mmm one day afternoon. You use m"
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.7717391304347826,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "He messed up. He messed up."
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.8586956521739131,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "We, we saved you"
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.7282608695652174,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "place before Look at the other side then You can do something"
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.5434782608695652,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "He's good, though. He messed up. He messed up. He's always decide then. He's always..."
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.5108695652173914,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "I mean, yeah. It's good, Paul. Yeah, you messed up. You're always decide then. You do so."
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.5978260869565217,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "I think he's good, though. He messed up. He messed up. He always decide then. He's always..."
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.31521739130434784,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "We need three skitts. You messed up. You always decide then. You solve it."
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.2717391304347826,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "We need three skittos. You messed up. You can always decide then. You saw it."
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.41304347826086957,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "We need three skitts. You messed up. You always decide then. You always decide then. You solve it."
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah."
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 4.391304347826087,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "I'm going to get a little bit of a little bit of a little bit of a little bit of a little bit of a l"
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.14130434782608695,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "We need three skid, yeah. You messed up. You can always decide then. You saw it. Yeah."
+  },
+  {
+    "clip": "ami_long_001.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah.",
+    "hyp": "We need three skid. Yeah. You messed up. You can always decide then. Yeah. Yeah. Yeah. Yeah."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.367816091954023,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "I mean, I don't know. So even if it doesn't work you can't."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.3333333333333333,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "I mean, I don't know. So even if it doesn't work, you can."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.3563218390804598,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "I mean, I don't know. So even if it doesn't work you can"
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.21839080459770116,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "Well, that's cool. I mean, I don't know. Yeah, that's cool. So even if it doesn't work, you can..."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.04597701149425287,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "Well, I mean, oh, um, I don't know. Yeah, that's cool. So even if it doesn't work, you can."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.39080459770114945,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "Well, that's cool. So even if it doesn't work, you can..."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.09195402298850575,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "Well, damn. I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can..."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.06896551724137931,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "Well, I mean, oh, um, I don't know. Yeah, that's cool. So even if it doesn't work, you can..."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.04597701149425287,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "Well, I mean, oh, um, I don't know. Yeah, that's cool. So even if it doesn't work, you can."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.06896551724137931,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "Well, I mean, oh, um, I don't know. Yeah, that's cool. So even if it doesn't work, you can..."
+  },
+  {
+    "clip": "ami_long_002.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can.",
+    "hyp": "Well, I mean, oh, I don't know. Yeah, that's cool. So even if it doesn't work, you can."
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.3383084577114428,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and take a repuck grip around and make it look like. You know, all of the things, all of the things."
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.373134328358209,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "you can repuck through it around and make it work. But what? I'll be asking you that. When you open "
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.42786069651741293,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and take a repuck grip around and make it work. So, you open the window, you redraw it, you might cl"
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.04477611940298507,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and dig a repuck grid around and make it work. But most will probably want to go with the box. So yo"
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.0945273631840796,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and jiggery putt grit around and make it work. But most will probably want to go with the ball. So y"
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.09950248756218906,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and jiggery putt grit around and make it work. But most will probably want to go with the box. So yo"
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.07960199004975124,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and jiggery putg it around and make it work. But most will probably want to go with the fault. So yo"
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.06467661691542288,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and jiggery putgrit around and make it work. But most will probably want to go with the fault. So yo"
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.07960199004975124,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and jiggery putg it around and make it work. But most will probably want to go with the fault. So yo"
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo"
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 0.9701492537313433,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "I'm going to go ahead and get a little bit of a little bit of a little bit of a little bit of a litt"
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.05472636815920398,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and jiggery putg it around and make it work. But most will probably want to go with the faults. You "
+  },
+  {
+    "clip": "ami_long_003.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.05472636815920398,
+    "ref": "and dig a repuck grid around and make it work. But most will probably want to go with the faults. Yo",
+    "hyp": "and jiggery putg it around and make it work. But most will probably want to go with the faults. You "
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.10084033613445378,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay. I mean if you already started on doing stuff I guess we can you know I don't know so what do w"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.15126050420168066,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "I mean if you already started on doing stuff I guess we can you know I don't know so what do we need"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.10084033613445378,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay. I mean if you already started on doing stuff I guess we can you know I don't know so what do w"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.025210084033613446,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay, yeah. I mean if you already started on doing stuff, I guess we can, you know, I don't know, so"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.10084033613445378,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay. I mean if you already started on doing stuff I guess we can you know I don't know so what do w"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.05042016806722689,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay, yeah. I mean if you already started on doing stuff I guess we can you know I don't know so wha"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.01680672268907563,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know, s"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.025210084033613446,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay, yeah. I mean if you already started on doing stuff, I guess we can, you know, I don't know, so"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.01680672268907563,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know, s"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.025210084033613446,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay, yeah. I mean if you already started on doing stuff, I guess we can, you know, I don't know, so"
+  },
+  {
+    "clip": "ami_long_004.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.01680672268907563,
+    "ref": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know. S",
+    "hyp": "Okay, yeah. I mean, if you already started on doing stuff, I guess we can, you know, I don't know, s"
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 1.0,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.9278846153846154,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": "Alright, well, then"
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 1.0,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.9182692307692307,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": "to talk about it."
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.6201923076923077,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": "Yeah, we're not sure what you're going to do. I'll read just two or three of whatever whatever they'"
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.9182692307692307,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": "to talk about it."
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.125,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": "to talk about it. We're not actually sure what the user wants to get, but it's interesting so why no"
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.18269230769230768,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": "to talk about it. We're not actually sure what we don't want to do, but it's interesting. So why don"
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.14423076923076922,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": "to talk about it. We're not actually sure what he wants for it, but it's interesting so why not give"
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte"
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.04807692307692308,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": "to talk about it. We don't. We're not actually sure what the user wants for it, but it's interesting"
+  },
+  {
+    "clip": "ami_long_005.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.08653846153846154,
+    "ref": "to talk about it. We don't know. We're not actually sure what the user wants for that, but it's inte",
+    "hyp": "to talk about it. We don't, we're not actually sure what the user wants for that, but it's interesti"
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.7299270072992701,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "Well, whatever it was last week then."
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.7299270072992701,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "Well, whatever it was last week, don't you?"
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.7226277372262774,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "Well, whatever it was last week, then."
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.7299270072992701,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "Well, whatever it was last week then."
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.7226277372262774,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "Well, whatever it was last week, then."
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.7226277372262774,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "Well, whatever it was last week, then."
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.45985401459854014,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "No, it's just one of the... ...percussive place. Well, whatever it was last week, then... That's a g"
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.45255474452554745,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "One of the characterizations, but... Well, whatever it was last week, then... That's a good point."
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.44525547445255476,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "I think it's one of the recognitions. Well, whatever it was last week then. That's a good point."
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was "
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.3357664233576642,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "to whatever your calculations. But well, whatever it was last week, then. That's a good point."
+  },
+  {
+    "clip": "ami_long_006.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was ",
+    "hyp": "to whatever your congratulations. But, I mean, this week's only two days old. Well, whatever it was "
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.6932515337423313,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "some these anti- tweeted customers like um upbeat and other than used still use for some minimal"
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.803680981595092,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "It left the 88 USD in the restaurant And the"
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.6625766871165644,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "Some This will be total specimen, like what the TsubST did have to be found So I figured it's still "
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.3067484662576687,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "Done. This is the coated sasmo, like the stuff that you've done completely. So if there's a bit stil"
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.25766871165644173,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "Done. Is the code accessible like we're doing stuff that you've done. Don't be the right thing. So, "
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.3312883435582822,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "Done. This is the code accessible, like the stuff you've done completely. So if there's a bit, there"
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.018404907975460124,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "Done. Actually, is the code accessible like the Bigui stuff that you've done, won't be the whole thi"
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.05521472392638037,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "Done. Actually, is the code accessible like the degree stuff that you've done won't be the whole thi"
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.024539877300613498,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "Done. Actually, is the code accessible like the Bigui stuff that you've done won't be the whole thin"
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin"
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.024539877300613498,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "Done. Actually, is the code accessible, like the GUI stuff that you've done won't be the whole thing"
+  },
+  {
+    "clip": "ami_long_007.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin",
+    "hyp": "Done. Actually, is the code accessible, like the GUI stuff that you've done, won't be the whole thin"
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.6460176991150443,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Yeah, exactly. Mizzilist, uh... Yeah, just say... It might come to us. It might come to us. It might"
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.3008849557522124,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Yeah, exactly. Mozilla style. Yeah, just in case. It might come to us. It's like playing with it in "
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.584070796460177,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Yeah, exactly. Mizzilisto. Yeah, just say. It might come to us. It might come to us. It might come t"
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.48672566371681414,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Yeah exactly. Bzzillist style. Yeah just in case. It might come to us. It might come to us. It might"
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.20353982300884957,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Yeah, exactly. Mozilla style. Yeah, just in case. It might come to us. Start playing with it. Okay."
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.18584070796460178,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Exactly. Bzillist style. Yeah, just in case. It might come to us. Start playing with it again. Okay."
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.18584070796460178,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Exactly. Mzillist style. Yeah, just in case. It might come to us. Start playing with it again. Okay."
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.23893805309734514,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Exactly. Mozilla style. Yeah, just in case. It might come to us. Start playing with it. Okay."
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.26548672566371684,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Exactly. Mizzilist style. Yeah, just in case. It might come to us. Start playing with it in case. Ok"
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka"
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.1504424778761062,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Yeah exactly. Mizzilist style. Yeah, just in case. Well, it might come to us. Start playing with it."
+  },
+  {
+    "clip": "ami_long_008.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.11504424778761062,
+    "ref": "Yeah exactly. Zillist style. Yeah just in case. Well it might come to us. Start playing with it. Oka",
+    "hyp": "Yeah exactly. Zillist style. Yeah, just in case. Well, it might come to us. Start playing with it. O"
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.527027027027027,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the confidence in this one."
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.40540540540540543,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the contents of the window."
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.5,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the confidence of this one. I know it's like some of those people."
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.14864864864864866,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the contents of the same window, like from the transpose."
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.1891891891891892,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the contents of this window, like from trans"
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.14864864864864866,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the contents of the same window, like from the trans"
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.0945945945945946,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the contents of the same window, like from the transcript."
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.05405405405405406,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the contents of the same window, like from transcript"
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the contents of the same window, like from transcription."
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the contents of the same window, like from transcription."
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.0945945945945946,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the contents of the same window, like from the transcript."
+  },
+  {
+    "clip": "ami_long_009.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.04054054054054054,
+    "ref": "Yeah, it changed the contents of the same window, like from transcription.",
+    "hyp": "Yeah, it changed the contents of the same window, like from transcript."
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.6949152542372882,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "Maybe you should make it exist then."
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.7457627118644068,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "Maybe you should make it exist, but..."
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.6949152542372882,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "Maybe you should make it exist then."
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.6949152542372882,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "Maybe you should make it exist then."
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.3474576271186441,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "Yeah, somebody that wants to. Yeah. Okay. Yeah. Into what? Okay. Maybe you should make it exist. Yea"
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.3983050847457627,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "Yeah, somebody that wants to work here. Yeah, I'm care about you. Into what? Okay. Maybe you should "
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.2796610169491525,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "Yeah, somebody else's. Yeah. Okay, yeah, I don't care about you. Into what? Okay. Maybe you should m"
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.23728813559322035,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "Yeah, somebody else. Yeah. Okay. Yeah. I'm sure right into what? Okay. Maybe you should make it exis"
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.22033898305084745,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "Yeah, somebody else. Yeah. Okay, yeah, I'm care about you. Into what? Okay. Maybe you should make it"
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m"
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.09322033898305085,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I don't care right. Into what? Okay. Maybe you s"
+  },
+  {
+    "clip": "ami_long_010.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m",
+    "hyp": "to somebody? Yeah, somebody else. Yeah. Okay, yeah, I'm careful. Into what? Okay. Maybe you should m"
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.8088235294117647,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "I thought so, I made it."
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.8235294117647058,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "That's that's fun."
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.5882352941176471,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "Yes. Ha ha ha ha ha ha ha ha. That's fine really!"
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.6617647058823529,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "That's quite slow really."
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.6617647058823529,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "That's quite slow really."
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.6617647058823529,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "That's quite slow really."
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.5588235294117647,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "I just call you. That's quite slow really."
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.7352941176470589,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "That's quite slow, I really..."
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.45588235294117646,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "What? Monday? I just call you. That's quite slow, really."
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "I'm sorry Monday Which is quite good Hahaha That's quite slow really"
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.5588235294117647,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "She's more you. That's quite slow, really."
+  },
+  {
+    "clip": "ami_long_011.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.20588235294117646,
+    "ref": "I'm sorry Monday Which is quite good Hahaha That's quite slow really",
+    "hyp": "I'm sorry. Monday. Which is more good. That's quite slow really."
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.3119266055045872,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. For the week, yeah. The progress report is June 23rd. It's pretty. Does it?"
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.3486238532110092,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. Really quick. The progress report is June 23rd. That's it."
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.22935779816513763,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. For the week, yeah. The progress report is June 23rd. Does it? That's priva"
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.3577981651376147,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. For the week, yeah. The progress report is June 23rd. February? That's prob"
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.3394495412844037,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. For the weekend. The progress report is June 23rd. That's perfect."
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.1926605504587156,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. For the week, yeah. The progress report is June 23rd. For free? Does it? Th"
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.1743119266055046,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. That's privacy."
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 3.779816513761468,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "I'm going to be a little bit more I'm going to be a little bit more I'm going to be a little bit mor"
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.24770642201834864,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. That's the biggest job."
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.22018348623853212,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. Very... That's pretty goo"
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's"
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.22018348623853212,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. Very... That's pretty sof"
+  },
+  {
+    "clip": "ami_long_012.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's",
+    "hyp": "Yeah, that's true, yeah. Where do we go? The progress report is June 23rd. February? Does it? That's"
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.6413793103448275,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "I'm sorry, I'm sorry. That sort of would be like all the pieces of that property."
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.7655172413793103,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "So it'll be like all the pieces of that"
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.7241379310344828,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "So it'll be like all the pieces of that property."
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.31724137931034485,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "It'll be still a limited version of the next thing. So it'll be like all the pieces of that topic of"
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.5241379310344828,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "So it'll be a double-ended version of the next move. So it'll be like all the pieces of that topic. "
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.33793103448275863,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "It'll be still limited version of the next thing. So it'll be like all the pieces of that topic of t"
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.18620689655172415,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "Oh, isn't it? Well, it'll be still limited version of the next crew. So it'll be like all the pieces"
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.1724137931034483,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "Oh, isn't it? Well, it'll be still a limited version of the next group. So it'll be like all the cas"
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.20689655172413793,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "Oh, isn't it? Well, it'll be still limited version of the next group. So it'll be like all the piece"
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas"
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.0,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas"
+  },
+  {
+    "clip": "ami_long_013.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas",
+    "hyp": "Oh, isn't it? Well, it'll be still a limited version of the next query. So it'll be like all the cas"
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.9076923076923077,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "oooo, we've got bad"
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.7282051282051282,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "I'm going to have to be doing it. I'm getting it fine. Yeah, certainly. Nice. I'm sorry. I'm sorry. "
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.8564102564102564,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "is the one's left thing must be found"
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.5846153846153846,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "I'm probably probably going to take it out one bit at a time, but it works well. Unless you try to e"
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.6,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "Yeah, that's what we do. I'm just going to take it out one bit, I'm running it to the other way. Yea"
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.5230769230769231,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "I suppose it's not supposed to be doing the point, probably seeing it like one bit at a time, probab"
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.4256410256410256,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "I'm going to try to figure out one bit of time running it because it works yeah unless you can't hea"
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.5692307692307692,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "I'm probably taking it out one bit at a time and running it. Unless you can't hear it. I think there"
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.3435897435897436,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "I'm going to try to be good, coming, commenting it out one bit at a time, running it because it work"
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running "
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.06153846153846154,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "Get us access and advice the type of the GUI coming commenting it out one bit at the time running it"
+  },
+  {
+    "clip": "ami_long_014.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running ",
+    "hyp": "get us access and advice the type of the GUI coming commenting it out one bit at a time and running "
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.4830508474576271,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "Well, it comes up automatically with a transformation box, and, with hook tangi you can say, okay?"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.7033898305084746,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "I really, which comes back often after getting into that transcript somewhat, and I'm in the pit. So"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.4067796610169492,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "It comes out automatically with the construction box. So what time do you take here at the bay?"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.15254237288135594,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "which comes up automatically with the transcription box and the topit. So what time can you say here"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 3.4237288135593222,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "I'm going to be a little bit more I'm going to be a little bit more I'm going to be a little bit mor"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.4067796610169492,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "as I really, which comes up automatically with the transcription box and the template. So, what's pl"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.22033898305084745,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "really which comes up automatically with the transcription box and the top it so what time do you sa"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.0847457627118644,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "I really, which comes up automatically with the transcription box and the topics. So, what time do w"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.13559322033898305,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "as I read, which comes up automatically with the transcription box and the topics. So, what time do "
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.0847457627118644,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "I really, which comes up automatically with the transcription box and the topics. So, what time do w"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "with which comes up automatically with the transcription box and the topics. So what time do we say?"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 0.8728813559322034,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "I'm not going to be a fool. I'm not going to be a fool. I'm not going to be a fool. I'm not going to"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.0,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "with which comes up automatically with the transcription box and the topics. So what time do we say?"
+  },
+  {
+    "clip": "ami_long_015.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "with which comes up automatically with the transcription box and the topics. So what time do we say?",
+    "hyp": "with which comes up automatically with the transcription box and the topics. So what time do we say?"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.46511627906976744,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "Is not an afternoon. Is the color, if you love, is the best! I actually haven't don anything this we"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.38372093023255816,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "I've got to see if I can help you. I've got to see if I can help you. I actually haven't done anythi"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.23255813953488372,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "I'm going to be coming with a lot of goodness popping up again. I actually haven't done anything thi"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.1686046511627907,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "and when there's a problem with a lot of wind that's popping up again. I actually haven't done anyth"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.18023255813953487,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "I told you there was a lot of wind that's popping up again. I actually haven't done anything this we"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.1744186046511628,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "I'm going to be coming with a lot of wind that's popping up again. I actually haven't done anything "
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.11046511627906977,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "Then was the problem with a lot of wind that's popping up again. I actually haven't done anything th"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.1569767441860465,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "with a lot of windows popping up again. I actually haven't done anything this week because this week"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.12209302325581395,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "I'm with a problem with a lot of wind that's popping up again. I actually haven't done anything this"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.023255813953488372,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this"
+  },
+  {
+    "clip": "ami_long_016.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.023255813953488372,
+    "ref": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this",
+    "hyp": "Then there's a problem with a lot of windows popping up again. I actually haven't done anything this"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.6882352941176471,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that's what I'm trying to do. I've all been sort of..."
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.24705882352941178,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that I think so I guess that's what you need to say before. Yeah, yeah. Whatever you want to"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.1411764705882353,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that... I think... So I guess that's what needs to be performed. Yeah, yeah. You know, whate"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.3176470588235294,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that I think so I guess that's what you need to do for you know whatever you want to do and "
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 2.5058823529411764,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I'm going to be a little bit more and I'm going to be a little bit more and I'm going to be a little"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.2,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that I think so I guess that's what you need to think of. Yeah, yeah. You know, whatever you"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.19411764705882353,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that I think so I guess that's what you need to learn from yeah yeah you know whatever you w"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.08235294117647059,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that I think so I guess that's what we need to think for. Yeah, yeah, you know, whatever you"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.1411764705882353,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that I think so I guess that's what we need to aim for yeah, you know Whatever you want to d"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.5941176470588236,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I'm going to go ahead and I'm going to go ahead and I'm going to go ahead and I'm going to go ahead "
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.0,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever"
+  },
+  {
+    "clip": "ami_long_017.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.0,
+    "ref": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever",
+    "hyp": "I guess that... I think... So I guess that's what we need to aim for. Yeah, yeah. You know, whatever"
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.7894736842105263,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "I can tell you what is him, SPT."
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.7969924812030075,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "I can tell you what I'm going to be doing."
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.7518796992481203,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "I could tell you what I'm an SPT."
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.39097744360902253,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "the same window and so we can put a lot of and probably mutually I could tell you one of them is bet"
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 0.3157894736842105,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "the same with them. So we can put a lot of and probably mutually distinct. Can tell you one of them,"
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.3308270676691729,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "the same window and so we can put a lot of and probably mutually distinct. I could tell you one of t"
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.18796992481203006,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "the same window and so we can put a lot of and probably mutually distancing. I could tell you what I"
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.13533834586466165,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "using the same window and so we can put a lot of and probably mutually distinct. I could tell you wh"
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.13533834586466165,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "using the same window and so we can put a lot of, and probably mutually distancing. I could tell you"
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can "
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.08270676691729323,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "using the same window and so we can put a lot of, and probably mutually, um, what a distinct game. I"
+  },
+  {
+    "clip": "ami_long_018.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.09022556390977443,
+    "ref": "using the same window and so we can put a lot of, and probably mutually, what a distinct one. I can ",
+    "hyp": "using the same window and so we can put a lot of, and probably mutually, um, what a distinct. I coul"
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "0",
+    "method": "unprocessed",
+    "wer": 0.37398373983739835,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, you should be able to have a light click close to me so you can see. Yeah. That's true, yeah."
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "0",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "0",
+    "method": "dfn_full",
+    "wer": 0.4634146341463415,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, he should be able to have a way to play fun with his own stuff. Yeah. That's true. Yeah."
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "0",
+    "method": "capped_adaptive",
+    "wer": 0.3902439024390244,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, he should be able to have a light click close to me very soon. Yeah. That's true, yeah."
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "10",
+    "method": "unprocessed",
+    "wer": 0.032520325203252036,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, you should be able to have a right click from these various things. Yeah. That's true. Yeah, it'"
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "10",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "10",
+    "method": "dfn_full",
+    "wer": 1.0,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, you should be able to have a right click from when you're starting to see. Yeah. That's true. Ye"
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "10",
+    "method": "capped_adaptive",
+    "wer": 0.2601626016260163,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, you should be able to have a right click from these various things too. Yeah. That's true, yeah."
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "20",
+    "method": "unprocessed",
+    "wer": 0.22764227642276422,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, you should be able to have a right click from for these various things too. Yeah. That's true, y"
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "20",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "20",
+    "method": "dfn_full",
+    "wer": 0.34146341463414637,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, you should be able to have a right click from the news various things to you. That's true."
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "20",
+    "method": "capped_adaptive",
+    "wer": 0.22764227642276422,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, you should be able to have a right click from for these various things too. Yeah. That's true, y"
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "clean",
+    "method": "unprocessed",
+    "wer": 0.0,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,"
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "clean",
+    "method": "rnnoise_real",
+    "wer": 1.0,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": ""
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "clean",
+    "method": "dfn_full",
+    "wer": 0.8130081300813008,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, you should be able to have a right click from for these various things to. Yeah. That's true. Ye"
+  },
+  {
+    "clip": "ami_long_019.wav",
+    "snr": "clean",
+    "method": "capped_adaptive",
+    "wer": 0.22764227642276422,
+    "ref": "Oh, you should be able to have a right click from for these various things. Yeah. That's true. Yeah,",
+    "hyp": "Oh, you should be able to have a right click from for these various things too. Yeah. That's true, y"
+  }
+]
