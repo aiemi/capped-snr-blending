@@ -28,7 +28,7 @@ experiments/
 │   ├── raw_results.json      Per-clip PESQ/STOI (2,450 entries, 359KB) ★
 │   ├── pesq_summary.json     PESQ aggregated by method × SNR
 │   ├── stoi_summary.json     STOI aggregated by method × SNR
-│   ├── wer_results.json      Per-clip WER (160 entries, 96KB)
+│   ├── wer_results.json      Per-clip WER (1,400 entries, 408KB)
 │   └── wer_summary.json      WER aggregated
 └── data/
     └── noise_clips/          8 generated noise clips (30s each, 16kHz)

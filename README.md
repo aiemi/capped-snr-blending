@@ -8,7 +8,7 @@ Evaluation code, algorithm implementation, and experimental results for:
 
 ## Key Findings
 
-Based on 2,450 PESQ/STOI measurements + 160 WER measurements on 50 AMI Meeting Corpus utterances:
+Based on 2,450 PESQ/STOI measurements + 1,400 WER measurements on 50 AMI Meeting Corpus utterances:
 
 1. **RNNoise catastrophically fails on meeting audio** — STOI collapses to 0.101, WER exceeds 1.0 (hallucinations).
 2. **DeepFilterNet3 full-strength degrades clean audio** — PESQ drops 33% (4.64 → 3.08), clean-audio WER rises from 0.000 to 0.147.
@@ -31,7 +31,7 @@ Based on 2,450 PESQ/STOI measurements + 160 WER measurements on 50 AMI Meeting C
 │   ├── raw_results.json           # 2,450 individual PESQ/STOI measurements (359KB)
 │   ├── pesq_summary.json          # PESQ aggregated by method × SNR
 │   ├── stoi_summary.json          # STOI aggregated by method × SNR
-│   ├── wer_results.json           # 160 WER measurements (Whisper-base.en, 96KB)
+│   ├── wer_results.json           # 1,400 WER measurements (Whisper-base.en, 408KB)
 │   ├── wer_summary.json           # WER aggregated
 │   ├── ablation_results.json      # Ablation study data
 │   └── pesq_summary.csv           # CSV version
@@ -60,7 +60,7 @@ Python 3.11 recommended. Installation takes ~5 min.
 # Full PESQ/STOI evaluation (50 AMI clips × 7 SNR × 7 methods = 2,450 measurements)
 python benchmarks/snr_adaptive/run_experiment_v3.py
 
-# WER evaluation (20 AMI clips × 4 SNR × 4 methods = 160 measurements)
+# WER evaluation (50 AMI clips × 7 SNR × 4 methods = 1,400 measurements)
 python benchmarks/snr_adaptive/run_wer.py
 ```
 
