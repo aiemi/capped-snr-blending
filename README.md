@@ -12,7 +12,7 @@ Based on 2,450 PESQ/STOI measurements + 160 WER measurements on 50 AMI Meeting C
 
 1. **RNNoise catastrophically fails on meeting audio** — STOI collapses to 0.101, WER exceeds 1.0 (hallucinations).
 2. **DeepFilterNet3 full-strength degrades clean audio** — PESQ drops 33% (4.64 → 3.08), clean-audio WER rises from 0.000 to 0.147.
-3. **Capped SNR-adaptive blending is the best overall method** — Avg PESQ 2.19, STOI 0.881, WER 0.282 (beats unprocessed 0.290).
+3. **Capped SNR-adaptive blending is the best overall method** — Avg PESQ 2.19, STOI 0.881, WER 0.354 (beats unprocessed 0.364).
 
 ## Repository Structure
 
@@ -129,14 +129,14 @@ where:
 | RNNoise | 1.26 | 1.37 | 1.44 | 1.49 | 1.41 |
 | **Capped adaptive** | **1.14** | **1.48** | **2.25** | **4.60** | **2.19** |
 
-### WER (Whisper-base.en, lower is better)
+### WER (Whisper-base.en, lower is better) — 50 clips × 7 SNRs
 
-| Method | 0 dB | 10 dB | 20 dB | Clean | Avg |
-|--------|------|-------|-------|-------|-----|
-| Unprocessed | 0.599 | 0.374 | 0.187 | 0.000 | 0.290 |
-| DFN3 (full) | 0.562 | 0.377 | 0.225 | 0.147 | 0.328 |
-| RNNoise | 1.000 | 1.197 | 1.152 | 1.191 | 1.135 |
-| **Capped adaptive** | **0.537** | **0.350** | **0.189** | **0.053** | **0.282** |
+| Method | 0 dB | 5 dB | 10 dB | 15 dB | 20 dB | 25 dB | Clean | Avg |
+|--------|------|------|-------|-------|-------|-------|-------|-----|
+| Unprocessed | 0.624 | 0.534 | 0.462 | 0.315 | 0.325 | 0.287 | 0.000 | 0.364 |
+| DFN3 (full) | **0.572** | **0.483** | **0.384** | 0.359 | 0.359 | 0.264 | 0.258 | 0.383 |
+| RNNoise | 1.179 | 1.466 | 1.153 | 1.192 | 1.191 | 1.081 | 1.219 | 1.212 |
+| **Capped adaptive** | 0.584 | 0.534 | 0.436 | **0.301** | **0.285** | **0.245** | 0.091 | **0.354** |
 
 ### Statistical Significance (Wilcoxon, N=350 paired comparisons)
 

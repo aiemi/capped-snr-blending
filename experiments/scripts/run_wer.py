@@ -105,9 +105,9 @@ def main():
     _df_model, _df_state, _ = init_df()
     _df_sr = _df_state.sr()
 
-    clips = sorted(AUDIO_DIR.glob("*.wav"))[:20]  # 20 clips for WER
+    clips = sorted(AUDIO_DIR.glob("*.wav"))[:50]  # 50 clips for WER (full scope)
     noises = sorted(NOISE_DIR.glob("*.wav"))
-    snr_levels = [0, 10, 20, "clean"]
+    snr_levels = [0, 5, 10, 15, 20, 25, "clean"]  # full SNR range
     methods = ["unprocessed", "rnnoise_real", "dfn_full", "capped_adaptive"]
 
     def transcribe(audio):
