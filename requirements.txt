@@ -1,0 +1,30 @@
+# Core dependencies
+numpy>=1.24
+scipy>=1.11
+soundfile>=0.12
+
+# Speech enhancement backends
+deepfilternet==0.5.6
+deepfilterlib==0.5.6
+pyrnnoise==0.4.3
+
+# Speech quality metrics
+pesq>=0.0.4
+pystoi>=0.4.1
+
+# ASR for WER evaluation
+openai-whisper>=20231117
+python-Levenshtein>=0.25.0
+
+# AMI dataset download
+datasets>=2.14
+huggingface-hub>=0.20
+
+# Audio processing
+torch>=2.0
+torchaudio>=2.0
+
+# Visualization (for figures)
+matplotlib>=3.7
+
+# Python version: 3.11 recommended
